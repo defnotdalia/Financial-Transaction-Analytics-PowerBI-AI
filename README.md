@@ -37,6 +37,3 @@ The Power BI report focuses on key areas of banking performance, including trans
 * **Transaction Type Split:** Transactions are split evenly, with **50% DEBIT** and **50% Credit**
 * **Customer Age Group:** The largest customer segment falls within the **36-50 age group** (200 customers).
 * **Total Balance by Name:** Notably identifies the account for **"priya singh"** with a substantial negative balance **(\$-15,787.44K)**.
-2.  **Open the File:**
-    * Download and install **Power BI Desktop**.
-    * Open the `Banking Dataset PowerBI Report.pbix` file from the cloned directory to interact with the full dashboard and data model.
