@@ -15,9 +15,9 @@ The resulting interactive dashboard provides critical insights into monthly tran
 
 ## 📊 Dashboard Preview
 
-### Page 1: Main Dashboard Overview
+### Page 1: First Page of Report
 ![First Page of Report](pg1.png)
-### Page 2: Product Detail Analysis
+### Page 2: Second Page of Report
 ![Second Page of Report](pg2.png)
 
 ## Data & Methodology
