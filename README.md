@@ -13,6 +13,13 @@ The resulting interactive dashboard provides critical insights into monthly tran
 * **Advanced Analytics:** DAX formulas (recommended by Perplexity)
 * **Project Management:** Git/GitHub
 
+## 📊 Dashboard Preview
+
+### Page 1: Main Dashboard Overview
+![First Page of Report](pg1.png)
+### Page 2: Product Detail Analysis
+![Second Page of Report](pg2.png)
+
 ## Data & Methodology
 
 The core data for this report was initially created and structured using **Perplexity AI** and loaded into a database environment.
